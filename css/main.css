@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+body {
+    background-color: #E5D9B6;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.enterance {
+    text-align: center;
+}
+
+.enterance a {
+    color: black;
+    text-decoration:underline;
+    font-weight:300;
+    font-size: 0.8rem;
+}
+
+.hero-bg {
+    text-align:center;
+    list-style-position: inside;
+    padding: 2em;
+}
+
+.title1 {
+    color: #B01E68;
+}
+
+.title2 {
+    font-weight: 700;
+}
+
+.title3 {
+    color: #F49D1A;
+    font-weight: 700;
+}
+
+.title4 {
+    font-weight: 700;
+}
